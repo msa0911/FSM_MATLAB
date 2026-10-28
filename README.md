@@ -111,3 +111,22 @@ This implementation accompanies research on adaptive fuzzy sliding-mode trajecto
 ## Disclaimer
 
 This software is a research prototype and is not a certified medical device. It must not be used for human rehabilitation or clinical operation without appropriate safety analysis, hardware validation, ethical approval, and regulatory compliance.
+
+## Authors and Affiliations
+
+- **Sahbi Boubaker** — Corresponding author  
+  Department of Computer & Network Engineering, College of Computer Science and Engineering, University of Jeddah, Jeddah, Saudi Arabia  
+  King Salman Center for Disability Research, Riyadh, Saudi Arabia  
+  Email: sboubaker@uj.edu.sa
+
+- **Mohammad Soleimani Amiri**  
+  Faculty of Artificial Intelligence and Cyber Security, Universiti Teknikal Malaysia Melaka, Melaka, Malaysia
+
+- **Rizauddin Ramli**  
+  Department of Mechanical and Manufacturing Engineering, Faculty of Engineering and Built Environment, Universiti Kebangsaan Malaysia, Selangor, Malaysia
+
+- **Habib Dimassi**  
+  Laboratory of Automatics, Electrical Systems and Environment (LASEE), Electrical Engineering Department, National Engineers School of Monastir, University of Monastir, Monastir, Tunisia
+
+- **Salim Hadj Said**  
+  Laboratory of Automatics, Electrical Systems and Environment (LASEE), Electrical Engineering Department, National Engineers School of Monastir, University of Monastir, Monastir, Tunisia
